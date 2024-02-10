@@ -11,4 +11,6 @@ practical applications. Still need a lot of stuff done on optimization and detai
 
 ![sandCoolFallenheimer-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/854f8c8e-d40e-41fd-ab26-0fd572dfc337)
 
+
+**Has Slipping on where origin collisions still slide if not 0 velocity.**
 ![slipperySandCoolHiemer-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/05a2d53e-7f75-47f6-987a-3a9449c82bdb)
