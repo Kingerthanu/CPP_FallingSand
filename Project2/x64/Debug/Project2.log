@@ -1,24 +1,33 @@
 ﻿  driver.cpp
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(50,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(51,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(55,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(56,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(78,51): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(81,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(110,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
-glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
-glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
-glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
-glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
-glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
-glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
-glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
-glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
-glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
-glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
-glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
-glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
-glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
-glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(123,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(124,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(134,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(135,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(162,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(172,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(200,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\dynamicCell.h(210,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'driver.cpp')
+  
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(82,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(83,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(88,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(89,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(115,51): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(118,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(148,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   Project2.vcxproj -> C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\x64\Debug\Project2.exe
