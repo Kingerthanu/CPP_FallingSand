@@ -10,3 +10,5 @@ practical applications. Still need a lot of stuff done on optimization and detai
 (Added velocity vector traversal with collision detection; need to fix compounding. Also added rand sand texture and some small optimizations in pipeline, removed always topple and only does when first colliding).
 
 ![sandCoolFallenheimer-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/854f8c8e-d40e-41fd-ab26-0fd572dfc337)
+
+![slipperySandCoolHiemer-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/05a2d53e-7f75-47f6-987a-3a9449c82bdb)
