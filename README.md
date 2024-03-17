@@ -23,4 +23,4 @@ Imply Contract With Velocity Traversals) Hopefully We Can Get A Little Yin and Y
 <img width="945" alt="image" src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/f1dfb5c1-b987-4e3d-8f90-d9edb1c052e9">
 
 
-For The Bomb We Made A Associated Dynamic_Cell Class Type In Which Inherits From Dynamic_NonSolid_Cell For Later Application In Shifting Our Associated Cells (Bomb Falling). For Entities, I Want To Add A Shift Function In Which Shifts All Associated Cells As Well.
+For The Bomb We Made a Associated Dynamic_Cell Class Type In Which Inherits From Dynamic_NonSolid_Cell For Later Application In Shifting Our Associated Cells (Bomb Falling). For Entities, I Want To Add A Shift Function In Which Shifts All Associated Cells As Well.
