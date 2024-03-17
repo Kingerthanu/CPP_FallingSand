@@ -10,9 +10,11 @@ Imply Contract With Velocity Traversals) Hopefully We Can Get A Little Yin and Y
 ![newestSkibidi-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/88d59e83-b18b-47e9-902e-5be9db8239ce)
 
 Before:
+
 <img width="947" alt="image" src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/917f414f-a4e9-453f-b6e9-780d7103c7cc">
 
 After:
+
 <img width="945" alt="image" src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/f1dfb5c1-b987-4e3d-8f90-d9edb1c052e9">
 
 
