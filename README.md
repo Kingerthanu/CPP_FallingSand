@@ -9,6 +9,9 @@ Imply Contract With Velocity Traversals) Hopefully We Can Get A Little Yin and Y
 
 ![newestSkibidi-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/88d59e83-b18b-47e9-902e-5be9db8239ce)
 
+**Bomb Explosion:**
+![bombasClat-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/aec9599a-c353-40eb-b95d-4fe445b3a5c9)
+
 
 **Before:**
 
