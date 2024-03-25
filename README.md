@@ -12,4 +12,4 @@ Our Logic Right Now Wants To Work On A Entity Batch For Multiple Concurrent Enti
 **Smaller Radius Boulder; Shows How Boulder Can Deform Into A Surface Depending On Incoming Speed Before Collision:**
 ![throwSmallDemo-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/7d5941ee-ce6b-4bf8-ac96-3490f4bbeb8c)
 
-This Patch Taught Me A Lot About Latching Objects For Given Lifetimes For Runtime Benefits And Upholding A Modularistic Design. It Also Taught Me Better Ways On Dilineniating Class Hierachies.
+This Patch Taught Me A Lot About Latching Objects For Given Lifetimes For Runtime Benefits And Upholding A Modularistic Design. It Also Taught Me Better Ways On Dilineniating Class Hierachies And Better Emphasis On Avoiding Is-a Relationships for Uses-a.
