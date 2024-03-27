@@ -3,7 +3,7 @@ This Patch Consists of A New Hud For Type Selection as well as a Radial Slider F
 Encapsulation Between Our Driver And Our Actual World. We Also Added In A global userCursor Which Kinda Seems A Little Unsafe But Holds Current User Stats For Easy Access And Holds A Lot of States of The User. We Also Added Bombs Which Are Fun And Work As A New World Entity
 Type Which Basically Is A Container For Cells In The Grid Which Represent this->entity. Bombs Shoot Out Smoke Cells Outward As Well As Their Own Shrapnel Of Their Shell. These Bombs Also Charr Surrounding Solid Blocks.
 
-Really Fun New Applications And Understandings Of Class Hierachies And Management Of Data. In New UI Am Using Single Buffer In Which Has Stages For Calling Either The Closed Or Open State; While This Does Impose Some "Hard-Codyness" By Implying That The Data Will Be Perfect Coming
+Really Fun New Applications And Understandings Of Class Hierachies And Management Of Data. In New UI Am Using Single Buffer In Which Has Stages For Calling Either The Closed Or Open State; While This Does Impose Some "Hard-Codeyness" By Implying That The Data Will Be Perfect Coming
 In But Now Knowing Of Programming By Contract Probabaly Will Try And Properly Outline My Docs To Show Proper Usage Instead Of Defending From It (At Least When Necessary; Im Not Gonna Want To Trust a Random User To Alter userCursor Or Say By Contract Dont Do That But Instead
 Imply Contract With Velocity Traversals) Hopefully We Can Get A Little Yin and Yang Dynamic With Sanitizing The More Foreward-ended Points.
 
