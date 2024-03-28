@@ -1,7 +1,7 @@
 # CPP_FallingSand
 New Patch Yippe! 
 
-[https://tenor.com/mn1pxi8wy2a.gif](https://tenor.com/view/yippee-tbh-creature-autism-creature-discord-emoji-yippee-creature-gif-10259200679963001540)
+![yippee-tbh-creature](https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/28d9518d-bc91-41fb-a4f4-efd8e78ea2f5)
 
  This Patch Works To Sand Out A Lot Of Features Into More Intuitive Design; This Includes Bouncing Of Bombs On Walls When Thrown, Sinking In Water And Moving Through Smoke Cells. I Also Fixed Molten/Tindered Shrapnel Cells From Explosions In Order To Allow Extinguishment By Adding Some Checks On Our Cells During Movement Calls. Every Cell Other Than Stone Should Be Able To Shift Around Eachother As Well To Allow For Fluid Movement, And Because Sand Is Granualted It Will Have A Dynamic Way Of Piling Up, Shifting Sideways Proportionally To Our Y-Axis Velocity. Throwables Still Will Have The Ability To Freeze During ANY Collision To Allow Sticking But Should Be Aware Of It As Can Look/Act A Little Janky But I Likey So It Stays.
 
